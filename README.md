@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👯 I’m looking to collaborate on an open source react project. 
+- 💬 It's Hama Dler. 
+- 😄 Slemani-based Developer, Designer and Digital Artist. 
+- 📫 Reach out to me: hamadler58@gmail.com 
