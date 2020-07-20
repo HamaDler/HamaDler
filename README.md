@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Slemani-based Developer & Designer.
 - 📫 Reach out to me: hamadler58@gmail.com 
 
-<img src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47a018b1f2eeaad4b98a706b0e7504c334fc5957d8&rid=giphy.gif" width="400" height="auto" />
+<img src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47a018b1f2eeaad4b98a706b0e7504c334fc5957d8&rid=giphy.gif" width="350" height="auto" />
