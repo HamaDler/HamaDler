@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 💬 It's Hama Dler. 
 - 😄 Slemani-based Developer & Designer.
 - 📫 Reach out to me: hamadler58@gmail.com 
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
