@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Slemani-based Developer & Designer.
 - 📫 Reach out to me: hamadler58@gmail.com 
 
-<img src="https://external-preview.redd.it/4iLw261NYmI75Vfek2tOjV7zsGVZzXAgp5GhSD0k2tE.gif?width=960&format=mp4&s=02c18d41ecb45818fd87639646e1c13c7e073115" width="40" height="40" />
+<img src="https://external-preview.redd.it/4iLw261NYmI75Vfek2tOjV7zsGVZzXAgp5GhSD0k2tE.gif?format=mp4&s=658a635332a27d9dd8835211bf58be0b25a626f8" width="40" height="40" />
