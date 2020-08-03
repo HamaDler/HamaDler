@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 😄 Slemani-based Developer & Designer.
 - 📫 Reach out to me: hamadler58@gmail.com 
 
-<img src="https://media2.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif?cid=ecf05e47cix5t70ejaaeb011o96uolsafph6tzpdnm1ns0h4&rid=giphy.gif" width="380" height="auto" />
+<img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e4718y15iobizu8iajs2j4xjjw73cytcuaoukfl5qgi&rid=giphy.gif" width="380" height="auto" />
 Warm yourself up
