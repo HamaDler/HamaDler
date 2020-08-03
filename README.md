@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 Reach out to me: hamadler58@gmail.com 
 
 <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e4718y15iobizu8iajs2j4xjjw73cytcuaoukfl5qgi&rid=giphy.gif" width="380" height="auto" />
-Warm yourself up
+
