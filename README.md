@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 [![Hama's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamaDler&count_private=true&show_icons=true&theme=tokyonight)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamaDler&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamaDler&layout=compact&theme=tokyonight)]
 <!-- <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e4718y15iobizu8iajs2j4xjjw73cytcuaoukfl5qgi&rid=giphy.gif" width="380" height="auto" /> -->
 
