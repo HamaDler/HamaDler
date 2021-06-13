@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 It's Hama Dler. 
 - 📍  Developer & Designer.
 - 📫 Reach out to me: hamadler58@gmail.com 
 
